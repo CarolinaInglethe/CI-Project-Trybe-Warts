@@ -6,6 +6,9 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e
 
 # Boas vindas ao repositório do projeto Trybewarts Wizarding School! :mage:
 
+
+LINK DO PROJETO : https://carolinainglethe.github.io/CI-Project-Trybe-Warts/
+
 # Sumário
 
 - [Habilidades](#habilidades)
